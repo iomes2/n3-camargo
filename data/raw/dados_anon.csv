@@ -1,0 +1,301 @@
+id_cliente,cidade,idade,salario,nome_pseudo,faixa_idade,salario_faixa,observacoes_anon,salario_perturbado,target
+1,Pastor de da Mota,21,2252.02,8811545b6d23,18-24,"(1199.999, 2494.458]",Brenda Alves comprou no cartão e ligou para +xx xx xxxx-xxxx.,2285.58,1
+2,Oliveira do Oeste,61,4400.54,ce4808437464,55-64,"(4378.548, 6996.63]",Emanuel Sampaio comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4382.29,0
+3,da Mata da Prata,21,1200.0,d2127d069f0d,18-24,"(1199.999, 2494.458]",Srta. Ana Clara Ribeiro comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,1223.32,1
+4,Pacheco das Flores,57,1937.38,ca001c2d28f0,55-64,"(1199.999, 2494.458]",Luan Vargas comprou no cartão e ligou para xx xxxx xxxx.,2025.9,0
+5,Vargas Alegre,59,3120.51,d0634ad72e32,55-64,"(2494.458, 3161.654]",Sr. Davi Miguel Moraes comprou no cartão e ligou para xxxx-xxx-xxxx.,3098.59,0
+6,das Neves de Goiás,60,3479.84,246266c09e76,55-64,"(3161.654, 3770.534]",Juan Lopes comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3455.4,0
+7,da Cruz,65,4555.28,b541dca2f377,65+,"(4378.548, 6996.63]",Isaque Nunes comprou no cartão e ligou para +xx xx xxxx-xxxx.,4771.09,0
+8,da Cruz de Viana,42,4433.35,d21c1f03773a,35-44,"(4378.548, 6996.63]",Benício Fernandes comprou no cartão e ligou para (xxx) xxxx xxxx.,4535.42,0
+9,da Mota,62,4852.69,15d19463e1ce,55-64,"(4378.548, 6996.63]",Maria Luísa Correia comprou no cartão e ligou para (xxx) xxxx xxxx.,4784.34,0
+10,Lima da Prata,53,4061.01,bb21ff686c64,45-54,"(3770.534, 4378.548]",Isadora Barbosa comprou no cartão e ligou para +xx xx xxxx-xxxx.,4127.11,0
+11,Rocha,42,3942.5,992ecfcac982,35-44,"(3770.534, 4378.548]",Raquel Cassiano comprou no cartão e ligou para xx xxxx-xxxx.,3887.69,0
+12,Barbosa,29,2349.34,84cf26d9654d,25-34,"(1199.999, 2494.458]",Nathan Campos comprou no cartão e ligou para +xx xx xxxx xxxx.,2316.52,1
+13,Silva,66,3440.09,0e64e66f7b9f,65+,"(3161.654, 3770.534]",Hadassa Montenegro comprou no cartão e ligou para +xx xx xxxx xxxx.,3465.06,0
+14,Pacheco da Prata,64,3278.17,5cb27c41f8fe,55-64,"(3161.654, 3770.534]",Sr. João Montenegro comprou no cartão e ligou para xx xxxx-xxxx.,3090.01,0
+15,Castro do Campo,57,4967.05,7446a62175e5,55-64,"(4378.548, 6996.63]",Pedro Cardoso comprou no cartão e ligou para +xx xx xxxx-xxxx.,4710.02,0
+16,Cavalcanti Verde,36,3314.56,86cb452917ac,35-44,"(3161.654, 3770.534]",Ana Carolina Melo comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3258.65,0
+17,Ribeiro do Campo,55,3077.44,be93142e6714,55-64,"(2494.458, 3161.654]",Arthur Miguel Caldeira comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,2983.93,0
+18,Martins dos Dourados,61,4138.77,9caf588345b2,55-64,"(3770.534, 4378.548]",Sra. Sofia das Neves comprou no cartão e ligou para xx xxxx xxxx.,4177.79,0
+19,Marques,45,3995.28,7e7e0b429b78,45-54,"(3770.534, 4378.548]",Hadassa Moraes comprou no cartão e ligou para (xxx) xxxx xxxx.,3886.45,0
+20,Sá dos Dourados,18,4016.99,186f45e4daa2,18-24,"(3770.534, 4378.548]",Evelyn Silva comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3846.79,0
+21,Carvalho,70,3012.3,bbb9a72f8960,65+,"(2494.458, 3161.654]",Sofia Lima comprou no cartão e ligou para +xx xx xxxx-xxxx.,3144.75,0
+22,Mendonça,59,2885.31,8067c9ee4e3a,55-64,"(2494.458, 3161.654]",Igor Gomes comprou no cartão e ligou para xxxx xxx xxxx.,2865.77,0
+23,Marques,69,4239.18,b5056949bc0c,65+,"(3770.534, 4378.548]",João Gabriel Lopes comprou no cartão e ligou para +xx xx xxxx xxxx.,4247.77,0
+24,Martins,37,4854.77,510b3771ff50,35-44,"(4378.548, 6996.63]",Dr. Mateus da Mota comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,4647.27,0
+25,Nascimento das Pedras,43,2491.81,09fd5f8fb15c,35-44,"(1199.999, 2494.458]",Sra. Maria Eduarda Cavalcante comprou no cartão e ligou para +xx xx xxxx xxxx.,2451.12,0
+26,Borges,23,2510.62,d3ba44034000,18-24,"(2494.458, 3161.654]",Maria Eduarda Azevedo comprou no cartão e ligou para xxxx-xxx-xxxx.,2518.97,1
+27,da Costa,49,4391.91,a25d25fce6a4,45-54,"(4378.548, 6996.63]",Rael da Cruz comprou no cartão e ligou para +xx xx xxxx-xxxx.,4240.26,0
+28,Fogaça dos Dourados,55,4151.79,b68036a5b3d9,55-64,"(3770.534, 4378.548]",Sra. Rebeca Novais comprou no cartão e ligou para (xxx) xxxx xxxx.,4198.58,0
+29,da Mota,61,3778.59,e704eb8cbf18,55-64,"(3770.534, 4378.548]",Leandro da Cunha comprou no cartão e ligou para +xx xx xxxx xxxx.,3710.5,0
+30,Nunes,65,3640.02,522bb5eb47d1,65+,"(3161.654, 3770.534]",Benjamim Novaes comprou no cartão e ligou para (xxx) xxxx-xxxx.,3608.17,0
+31,Novaes,68,4545.71,edccce23e5b8,65+,"(4378.548, 6996.63]",Bryan da Cruz comprou no cartão e ligou para xxxx-xxx-xxxx.,4463.65,0
+32,Barbosa,33,3768.31,4d4a1b881d37,25-34,"(3161.654, 3770.534]",Emanuel Abreu comprou no cartão e ligou para +xx xx xxxx-xxxx.,3977.71,0
+33,Teixeira,65,3581.09,e333821cd2a1,65+,"(3161.654, 3770.534]",Enzo Vieira comprou no cartão e ligou para (xxx) xxxx-xxxx.,3579.64,0
+34,Ribeiro das Flores,27,3846.94,b9bab350a299,25-34,"(3770.534, 4378.548]",Juliana Oliveira comprou no cartão e ligou para (xxx) xxxx xxxx.,3724.87,0
+35,da Paz,62,1751.41,a914318e52ca,55-64,"(1199.999, 2494.458]",Ana Carolina Marques comprou no cartão e ligou para xx xxxx-xxxx.,1794.63,0
+36,Marques,55,3116.39,422d8944193a,55-64,"(2494.458, 3161.654]",Raquel Campos comprou no cartão e ligou para +xx xx xxxx xxxx.,3002.25,0
+37,Novaes da Prata,48,2733.35,1936ff9dda84,45-54,"(2494.458, 3161.654]",Clara Gomes comprou no cartão e ligou para xxxx xxx xxxx.,2750.48,0
+38,Albuquerque de Silveira,43,3169.83,6146de837d55,35-44,"(3161.654, 3770.534]",Mirella Duarte comprou no cartão e ligou para xx xxxx-xxxx.,2983.48,0
+39,Teixeira,30,2461.0,51514f40493d,25-34,"(1199.999, 2494.458]",Nicolas Rezende comprou no cartão e ligou para xx xxxx-xxxx.,2362.94,0
+40,Monteiro,22,4661.93,ae96b0b30e9f,18-24,"(4378.548, 6996.63]",Beatriz Macedo comprou no cartão e ligou para xxxx xxx xxxx.,4689.46,0
+41,Caldeira de da Costa,66,3098.14,162f6ab12e84,65+,"(2494.458, 3161.654]",Cecília da Conceição comprou no cartão e ligou para (xxx) xxxx xxxx.,3166.78,0
+42,Siqueira Grande,49,3695.3,dd1dda907f49,45-54,"(3161.654, 3770.534]",Maria Alice Oliveira comprou no cartão e ligou para xxxx-xxx-xxxx.,3714.3,0
+43,Albuquerque Paulista,49,4353.47,cb4a9508762a,45-54,"(3770.534, 4378.548]",Juan Duarte comprou no cartão e ligou para +xx xx xxxx xxxx.,4338.37,0
+44,Camargo de Brito,48,4452.02,1e9a16286a2a,45-54,"(4378.548, 6996.63]",Camila Marques comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4411.8,0
+45,Nogueira da Praia,51,2945.18,5d5d1d9f619e,45-54,"(2494.458, 3161.654]",Vitor Gabriel Carvalho comprou no cartão e ligou para +xx xx xxxx-xxxx.,2814.54,0
+46,da Mota,17,4529.57,29ac0b7e2ee4,0-17,"(4378.548, 6996.63]",Miguel da Mota comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4431.75,0
+47,Machado,32,1969.18,42577f884853,25-34,"(1199.999, 2494.458]",Davi Lucca Nogueira comprou no cartão e ligou para +xx xx xxxx xxxx.,1941.97,0
+48,Garcia do Galho,40,2140.06,ee715f9ec9ca,35-44,"(1199.999, 2494.458]",Hellena Pimenta comprou no cartão e ligou para +xx xx xxxx xxxx.,2207.93,0
+49,Azevedo de Borges,64,4096.59,96b95da957fe,55-64,"(3770.534, 4378.548]",Rafael Montenegro comprou no cartão e ligou para xx xxxx xxxx.,4138.82,0
+50,Ribeiro,19,3670.91,3b54ac3c4896,18-24,"(3161.654, 3770.534]",Caleb Lopes comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3476.75,0
+51,Sousa,41,2987.3,0018e6680b52,35-44,"(2494.458, 3161.654]",Heloisa Caldeira comprou no cartão e ligou para (xxx) xxxx xxxx.,3016.34,0
+52,Leão de da Mata,55,3690.25,5ff9108ac9b7,55-64,"(3161.654, 3770.534]",Ana Borges comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3647.62,0
+53,Cavalcanti Grande,74,3128.78,36d60d213e4f,65+,"(2494.458, 3161.654]",Théo Camargo comprou no cartão e ligou para (xxx) xxxx xxxx.,3065.24,0
+54,Almeida Alegre,55,4048.13,fa8f59e2eb0d,55-64,"(3770.534, 4378.548]",Yasmin Santos comprou no cartão e ligou para +xx xx xxxx xxxx.,4122.41,0
+55,Caldeira,34,3064.34,112ef77811b5,25-34,"(2494.458, 3161.654]",Raul Sales comprou no cartão e ligou para +xx xx xxxx xxxx.,3159.12,0
+56,Fogaça,25,3041.91,de80a9b1aa84,25-34,"(2494.458, 3161.654]",José Miguel Costa comprou no cartão e ligou para (xxx) xxxx xxxx.,3126.9,0
+57,Caldeira de Fernandes,61,4084.37,891f60dca531,55-64,"(3770.534, 4378.548]",Ana Sophia das Neves comprou no cartão e ligou para (xxx) xxxx-xxxx.,3981.54,0
+58,da Cunha Grande,58,2936.72,0d9e42ac7c61,55-64,"(2494.458, 3161.654]",Srta. Sofia Ramos comprou no cartão e ligou para xxxx-xxx-xxxx.,2909.48,0
+59,Câmara,69,4076.9,01f1490a6d6e,65+,"(3770.534, 4378.548]",Sr. Diego Ferreira comprou no cartão e ligou para xx xxxx-xxxx.,4117.42,0
+60,Sá dos Dourados,45,4035.84,887cf3535895,45-54,"(3770.534, 4378.548]",Eduardo Barbosa comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,4153.95,0
+61,da Paz,45,3381.82,6c649cef4e61,45-54,"(3161.654, 3770.534]",Vitor da Costa comprou no cartão e ligou para xxxx-xxx-xxxx.,3333.21,0
+62,Carvalho,42,2992.04,6b1c07729a03,35-44,"(2494.458, 3161.654]",Enrico da Mata comprou no cartão e ligou para +xx xx xxxx-xxxx.,2975.38,0
+63,Monteiro,56,1475.2,e49345f7aab2,55-64,"(1199.999, 2494.458]",João Pedro Melo comprou no cartão e ligou para +xx xx xxxx-xxxx.,1426.24,0
+64,Porto,53,1763.47,e2a46e57e40c,45-54,"(1199.999, 2494.458]",Zoe Almeida comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1700.19,0
+65,Vieira,36,2303.3,5278b208c698,35-44,"(1199.999, 2494.458]",Maria Fernanda da Cunha comprou no cartão e ligou para (xxx) xxxx-xxxx.,2359.44,0
+66,Moreira Paulista,22,3979.73,9f9a3ca3e478,18-24,"(3770.534, 4378.548]",Asafe Dias comprou no cartão e ligou para xx xxxx xxxx.,4141.65,0
+67,Barbosa,45,3046.2,39e54a8f3b64,45-54,"(2494.458, 3161.654]",Otávio Barros comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3039.62,0
+68,Moura,57,5059.07,da46d58706dc,55-64,"(4378.548, 6996.63]",Maria Luiza Fonseca comprou no cartão e ligou para xxxx-xxx-xxxx.,5211.38,0
+69,Silva,31,4385.02,0a7d9c2e342b,25-34,"(4378.548, 6996.63]",Dr. Levi Rezende comprou no cartão e ligou para +xx xx xxxx-xxxx.,4432.59,0
+70,Martins da Prata,61,2379.66,1507941ef373,55-64,"(1199.999, 2494.458]",Aurora Rodrigues comprou no cartão e ligou para +xx xx xxxx xxxx.,2333.61,0
+71,da Rosa,59,2359.97,6699748f2cf9,55-64,"(1199.999, 2494.458]",Caio Azevedo comprou no cartão e ligou para +xx xx xxxx xxxx.,2385.56,0
+72,Ribeiro,32,3093.16,8d09325f8b05,25-34,"(2494.458, 3161.654]",Enrico Duarte comprou no cartão e ligou para xxxx-xxx-xxxx.,3235.88,0
+73,Leão de Mendes,23,1427.22,4b0d2a4c4014,18-24,"(1199.999, 2494.458]",Maitê Nunes comprou no cartão e ligou para (xxx) xxxx xxxx.,1425.69,1
+74,Pimenta das Pedras,42,4021.31,f9021c3a24cc,35-44,"(3770.534, 4378.548]",Gabrielly Fernandes comprou no cartão e ligou para (xxx) xxxx-xxxx.,4210.07,0
+75,da Paz de Nascimento,63,2787.02,23711119faf8,55-64,"(2494.458, 3161.654]",Emanuel Duarte comprou no cartão e ligou para +xx xx xxxx-xxxx.,2567.98,0
+76,Brito,50,1764.73,aa6f14b747fd,45-54,"(1199.999, 2494.458]",Cauê Lopes comprou no cartão e ligou para +xx xx xxxx xxxx.,1808.24,0
+77,Pastor Alegre,17,2864.61,ea91acef3c8e,0-17,"(2494.458, 3161.654]",Maria Fernanda Vieira comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,2872.09,1
+78,Cavalcante de Moura,60,3779.21,3acac38efce2,55-64,"(3770.534, 4378.548]",Sophia Nascimento comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3745.31,0
+79,Ribeiro do Amparo,34,5422.13,1b0e041ec970,25-34,"(4378.548, 6996.63]",Maria Helena Casa Grande comprou no cartão e ligou para xx xxxx xxxx.,5437.06,0
+80,da Paz do Campo,53,3212.77,9c4bf5141d5d,45-54,"(3161.654, 3770.534]",Maria Flor Dias comprou no cartão e ligou para +xx xx xxxx-xxxx.,3021.2,0
+81,da Cruz,53,3715.13,f1dc6ab90666,45-54,"(3161.654, 3770.534]",Ísis Garcia comprou no cartão e ligou para (xxx) xxxx-xxxx.,3690.65,0
+82,Cavalcanti,20,3764.0,d43d275a1355,18-24,"(3161.654, 3770.534]",Vinícius Câmara comprou no cartão e ligou para (xxx) xxxx-xxxx.,3804.33,0
+83,Farias,26,4502.13,8a8e91bcc283,25-34,"(4378.548, 6996.63]",Emanuelly Andrade comprou no cartão e ligou para (xxx) xxxx-xxxx.,4701.74,0
+84,Gomes de Goiás,45,3928.25,a9f808d04bb9,45-54,"(3770.534, 4378.548]",Raul Ramos comprou no cartão e ligou para +xx xx xxxx xxxx.,3867.17,0
+85,Souza de Pereira,55,2073.48,3c0db1387681,55-64,"(1199.999, 2494.458]",Juliana Farias comprou no cartão e ligou para +xx xx xxxx xxxx.,2023.19,0
+86,Camargo de Rodrigues,22,2732.3,126408537d5e,18-24,"(2494.458, 3161.654]",Dr. Yan Melo comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,2691.17,1
+87,Sampaio de Minas,33,3032.23,364a8e432381,25-34,"(2494.458, 3161.654]",Samuel Borges comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3115.5,0
+88,Abreu,70,1847.98,e40e83846c7a,65+,"(1199.999, 2494.458]",Ana Liz Azevedo comprou no cartão e ligou para xx xxxx-xxxx.,1866.21,0
+89,Peixoto de Rocha,52,3233.33,6f193b1f043f,45-54,"(3161.654, 3770.534]",Kaique Martins comprou no cartão e ligou para xxxx-xxx-xxxx.,3181.94,0
+90,da Rosa Paulista,50,1735.03,28a2bf076199,45-54,"(1199.999, 2494.458]",Srta. Isabelly Sousa comprou no cartão e ligou para xxxx xxx xxxx.,1761.75,0
+91,Leão da Prata,40,3876.22,734ebeabe6b3,35-44,"(3770.534, 4378.548]",Erick Pires comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3887.51,0
+92,Costela de Farias,44,4505.75,2b08c8c18a11,35-44,"(4378.548, 6996.63]",Catarina Gomes comprou no cartão e ligou para xxxx-xxx-xxxx.,4636.68,0
+93,Teixeira de Dias,32,6996.63,a15a6c0cd83e,25-34,"(4378.548, 6996.63]",Anthony Gabriel Cunha comprou no cartão e ligou para xx xxxx-xxxx.,6849.27,0
+94,Teixeira do Amparo,44,3997.29,6c238eb2fe43,35-44,"(3770.534, 4378.548]",Léo Dias comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3958.0,0
+95,Freitas de Araújo,25,1200.0,f1fc655a9ce5,25-34,"(1199.999, 2494.458]",Dra. Rebeca Marques comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1185.88,1
+96,Fogaça Paulista,49,3821.25,536246a4437a,45-54,"(3770.534, 4378.548]",Rafaela Ribeiro comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3653.48,0
+97,Nunes do Campo,72,3001.57,c73d952ad2b9,65+,"(2494.458, 3161.654]",Anna Liz Freitas comprou no cartão e ligou para xx xxxx xxxx.,3028.23,0
+98,Gomes Grande,35,2765.48,4ca26d59097f,35-44,"(2494.458, 3161.654]",Ana Cecília da Conceição comprou no cartão e ligou para xx xxxx xxxx.,2787.14,0
+99,da Cruz de Minas,32,4779.18,9e183acad7df,25-34,"(4378.548, 6996.63]",Dra. Anna Liz Montenegro comprou no cartão e ligou para +xx xx xxxx-xxxx.,4779.91,0
+100,Caldeira do Sul,17,3688.46,8573e75406af,0-17,"(3161.654, 3770.534]",João Felipe Cassiano comprou no cartão e ligou para xx xxxx xxxx.,3662.5,0
+101,Lopes,48,2257.22,84d48062be4e,45-54,"(1199.999, 2494.458]",Luiz Gustavo Novaes comprou no cartão e ligou para xx xxxx xxxx.,2161.38,0
+102,Rezende Grande,24,1490.38,a033d99b9830,18-24,"(1199.999, 2494.458]",Otto da Rosa comprou no cartão e ligou para (xxx) xxxx xxxx.,1471.57,1
+103,Siqueira,55,3435.46,474cc4191d53,55-64,"(3161.654, 3770.534]",Lorenzo Pereira comprou no cartão e ligou para +xx xx xxxx-xxxx.,3400.14,0
+104,Vieira,55,5621.52,6918b6c30bb6,55-64,"(4378.548, 6996.63]",Giovanna Macedo comprou no cartão e ligou para xxxx-xxx-xxxx.,5486.22,0
+105,Gonçalves dos Dourados,71,4679.29,8a4e07ea1f07,65+,"(4378.548, 6996.63]",Sr. Cauê Vargas comprou no cartão e ligou para +xx xx xxxx-xxxx.,4656.65,0
+106,Azevedo da Mata,61,2900.85,a613263840cc,55-64,"(2494.458, 3161.654]",Sarah Cassiano comprou no cartão e ligou para (xxx) xxxx-xxxx.,2936.01,0
+107,Gomes do Sul,73,2341.86,945605c729fb,65+,"(1199.999, 2494.458]",Danilo Almeida comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,2474.38,0
+108,Marques da Serra,29,2629.73,0c1150df6695,25-34,"(2494.458, 3161.654]",Srta. Gabrielly da Mota comprou no cartão e ligou para xx xxxx xxxx.,2643.5,1
+109,Novais,48,2514.34,7ce4de3844bc,45-54,"(2494.458, 3161.654]",Letícia Pimenta comprou no cartão e ligou para xx xxxx xxxx.,2533.77,0
+110,da Rocha,37,4506.19,07ac7ee5af96,35-44,"(4378.548, 6996.63]",Samuel da Paz comprou no cartão e ligou para xx xxxx xxxx.,4496.13,0
+111,Ferreira de Minas,72,4617.89,fab1431c554f,65+,"(4378.548, 6996.63]",João Guilherme Câmara comprou no cartão e ligou para (xxx) xxxx-xxxx.,4352.07,0
+112,Moraes do Campo,34,3961.94,11ece5d47051,25-34,"(3770.534, 4378.548]",Bárbara Vasconcelos comprou no cartão e ligou para xx xxxx-xxxx.,3958.79,0
+113,Duarte de Pacheco,52,3451.08,fd65249c018c,45-54,"(3161.654, 3770.534]",Noah Araújo comprou no cartão e ligou para xx xxxx xxxx.,3457.32,0
+114,Brito,46,2714.25,970438b38674,45-54,"(2494.458, 3161.654]",Caleb Siqueira comprou no cartão e ligou para (xxx) xxxx xxxx.,2914.83,0
+115,Rezende de Minas,26,2954.02,c3e65778fca7,25-34,"(2494.458, 3161.654]",Natália Almeida comprou no cartão e ligou para xx xxxx xxxx.,2936.97,1
+116,Carvalho das Flores,25,2029.27,fb65ff186038,25-34,"(1199.999, 2494.458]",Srta. Agatha Cunha comprou no cartão e ligou para (xxx) xxxx-xxxx.,2047.63,1
+117,Ramos de Minas,73,3707.11,0c0eef705a45,65+,"(3161.654, 3770.534]",Diego Azevedo comprou no cartão e ligou para +xx xx xxxx xxxx.,3703.25,0
+118,Cardoso das Flores,74,5394.91,2ee50ff3fc95,65+,"(4378.548, 6996.63]",Yuri Peixoto comprou no cartão e ligou para xx xxxx xxxx.,5205.76,0
+119,Barros da Mata,65,3357.63,d80abce2d507,65+,"(3161.654, 3770.534]",Mariah Fonseca comprou no cartão e ligou para xx xxxx-xxxx.,3472.75,0
+120,Santos,68,3842.99,955a3140138e,65+,"(3770.534, 4378.548]",Thomas Costela comprou no cartão e ligou para (xxx) xxxx-xxxx.,3929.68,0
+121,Araújo do Amparo,43,3763.26,030c2f14326f,35-44,"(3161.654, 3770.534]",Anthony Castro comprou no cartão e ligou para (xxx) xxxx-xxxx.,3852.57,0
+122,Duarte,34,3006.89,e1208fc5a0b5,25-34,"(2494.458, 3161.654]",Eloah Freitas comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,2924.86,0
+123,da Rocha,40,4014.51,07de267f42a4,35-44,"(3770.534, 4378.548]",Oliver Silveira comprou no cartão e ligou para (xxx) xxxx-xxxx.,4183.46,0
+124,Mendonça do Norte,38,5342.91,5a4929fe2be8,35-44,"(4378.548, 6996.63]",Liz Sousa comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,5118.21,0
+125,Gonçalves Alegre,38,2030.64,60c9d3097d79,35-44,"(1199.999, 2494.458]",João Lucas Borges comprou no cartão e ligou para +xx xx xxxx xxxx.,2066.39,0
+126,Rodrigues,31,1858.21,d31ada3c575a,25-34,"(1199.999, 2494.458]",Dr. João Gabriel da Conceição comprou no cartão e ligou para xx xxxx-xxxx.,1980.32,0
+127,Araújo,17,5568.4,4e95063eefcf,0-17,"(4378.548, 6996.63]",Asafe Cunha comprou no cartão e ligou para (xxx) xxxx-xxxx.,5402.93,0
+128,Alves de Garcia,23,3284.58,984e15460bb5,18-24,"(3161.654, 3770.534]",Davi Lucca Costa comprou no cartão e ligou para (xxx) xxxx xxxx.,3228.78,0
+129,Costa do Galho,60,5253.73,404f02b40b78,55-64,"(4378.548, 6996.63]",Mariane Cavalcanti comprou no cartão e ligou para xx xxxx-xxxx.,5269.44,0
+130,Vargas Verde,26,2171.55,126fd66dea8e,25-34,"(1199.999, 2494.458]",Yago Vieira comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,2138.75,1
+131,Nogueira de das Neves,32,4271.99,c10d00486a1d,25-34,"(3770.534, 4378.548]",Emanuel Brito comprou no cartão e ligou para xx xxxx xxxx.,4073.26,0
+132,Barbosa da Praia,34,3026.47,7c8567013a28,25-34,"(2494.458, 3161.654]",Samuel Andrade comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3032.7,0
+133,Vargas Verde,45,3303.87,d3738fd6e5f9,45-54,"(3161.654, 3770.534]",Dra. Maria Laura Pastor comprou no cartão e ligou para +xx xx xxxx-xxxx.,3198.58,0
+134,Silveira,45,3905.09,9918fd5c23d6,45-54,"(3770.534, 4378.548]",Fernando Pereira comprou no cartão e ligou para (xxx) xxxx xxxx.,3960.57,0
+135,Fernandes,26,3608.7,c62cafa7b479,25-34,"(3161.654, 3770.534]",Benicio Gomes comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3509.16,0
+136,da Costa do Campo,29,4272.73,662547565cb8,25-34,"(3770.534, 4378.548]",Marcos Vinicius Castro comprou no cartão e ligou para +xx xx xxxx xxxx.,4471.4,0
+137,Mendonça de Ribeiro,73,3441.54,a7023be0797f,65+,"(3161.654, 3770.534]",Matteo Oliveira comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3360.67,0
+138,Novaes,23,2488.12,41c78f2af148,18-24,"(1199.999, 2494.458]",Caleb Ramos comprou no cartão e ligou para +xx xx xxxx-xxxx.,2464.08,1
+139,Rodrigues,61,2446.22,9e74bc53fd0e,55-64,"(1199.999, 2494.458]",Mathias Moreira comprou no cartão e ligou para +xx xx xxxx xxxx.,2505.92,0
+140,Caldeira,50,3099.05,4e887c07e929,45-54,"(2494.458, 3161.654]",Gabriela Pires comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,2984.61,0
+141,Vieira da Mata,17,1908.33,c0047c73e1ca,0-17,"(1199.999, 2494.458]",Beatriz Viana comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1921.35,1
+142,Santos do Galho,58,3536.76,9f5871b8d870,55-64,"(3161.654, 3770.534]",João Lucas Mendonça comprou no cartão e ligou para +xx xx xxxx-xxxx.,3675.45,0
+143,Cavalcanti de Melo,41,4086.22,731457d9949a,35-44,"(3770.534, 4378.548]",Catarina Vasconcelos comprou no cartão e ligou para (xxx) xxxx-xxxx.,3889.16,0
+144,Câmara,23,2919.0,9abc0f96c4b6,18-24,"(2494.458, 3161.654]",Marcela Ferreira comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,2935.17,1
+145,Azevedo de Fernandes,73,4703.31,e7af698a7fbb,65+,"(4378.548, 6996.63]",Leandro Silva comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4739.98,0
+146,Silveira de Goiás,33,4145.74,9ed3a1722d72,25-34,"(3770.534, 4378.548]",Luan da Mota comprou no cartão e ligou para (xxx) xxxx xxxx.,4242.98,0
+147,Freitas Paulista,34,3314.59,986ec70a66d4,25-34,"(3161.654, 3770.534]",Yasmin Porto comprou no cartão e ligou para xx xxxx-xxxx.,3191.59,0
+148,Dias,72,2664.87,f1a0eece423b,65+,"(2494.458, 3161.654]",Laís Martins comprou no cartão e ligou para xx xxxx xxxx.,2559.3,0
+149,Nascimento,45,3791.0,9b48c3737e64,45-54,"(3770.534, 4378.548]",Srta. Anna Liz Mendonça comprou no cartão e ligou para +xx xx xxxx xxxx.,3850.36,0
+150,Lopes Grande,17,3711.89,8b374fe355e7,0-17,"(3161.654, 3770.534]",Marcelo Albuquerque comprou no cartão e ligou para xx xxxx-xxxx.,3744.96,0
+151,Aragão,65,3608.59,ad3937aa590e,65+,"(3161.654, 3770.534]",Dr. Luiz Henrique Sá comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3635.71,0
+152,da Paz,22,3773.87,1b695d6fdca3,18-24,"(3770.534, 4378.548]",Srta. Maria Vitória Macedo comprou no cartão e ligou para xx xxxx-xxxx.,3813.09,0
+153,Cassiano de Borges,16,5752.21,948c5928369e,0-17,"(4378.548, 6996.63]",Cauê Monteiro comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,5634.86,0
+154,Macedo Paulista,73,2476.11,503015116b8e,65+,"(1199.999, 2494.458]",Ana Vitória Silveira comprou no cartão e ligou para (xxx) xxxx xxxx.,2493.36,0
+155,Vasconcelos da Praia,59,1743.87,c2572f5a4284,55-64,"(1199.999, 2494.458]",Srta. Maria Fernanda Fernandes comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1759.2,0
+156,Cassiano da Prata,63,2791.15,7c5cd7ad00d8,55-64,"(2494.458, 3161.654]",Ana Rodrigues comprou no cartão e ligou para (xxx) xxxx xxxx.,2731.33,0
+157,Monteiro,65,4947.02,4e3b6850184c,65+,"(4378.548, 6996.63]",Ana Júlia Albuquerque comprou no cartão e ligou para xx xxxx-xxxx.,5223.92,0
+158,Novais do Amparo,17,2625.1,8e0461d28afa,0-17,"(2494.458, 3161.654]",Luara Campos comprou no cartão e ligou para xx xxxx-xxxx.,2662.42,1
+159,Campos,30,1200.0,94619c1af41b,25-34,"(1199.999, 2494.458]",Dra. Maria Clara Silva comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1157.11,0
+160,Siqueira,63,3304.8,55533e21215f,55-64,"(3161.654, 3770.534]",Helena Marques comprou no cartão e ligou para xx xxxx xxxx.,3369.89,0
+161,Pinto,61,2864.67,0f8cb7df7f66,55-64,"(2494.458, 3161.654]",Cauã Gomes comprou no cartão e ligou para xxxx-xxx-xxxx.,2780.91,0
+162,da Mata,51,2447.77,1bee1a49c534,45-54,"(1199.999, 2494.458]",Sra. Manuella Rocha comprou no cartão e ligou para (xxx) xxxx-xxxx.,2505.57,0
+163,Albuquerque,22,1390.73,0c76c46fe661,18-24,"(1199.999, 2494.458]",João Pedro Rodrigues comprou no cartão e ligou para +xx xx xxxx-xxxx.,1439.07,1
+164,Cardoso da Serra,54,1739.55,38eae62b747e,45-54,"(1199.999, 2494.458]",Sra. Gabriela Pinto comprou no cartão e ligou para +xx xx xxxx xxxx.,1696.72,0
+165,Borges da Praia,47,1955.09,06ea0cd73b46,45-54,"(1199.999, 2494.458]",Jade Abreu comprou no cartão e ligou para xx xxxx xxxx.,2011.59,0
+166,da Cunha da Prata,30,2183.86,2454d746304c,25-34,"(1199.999, 2494.458]",Heitor Ribeiro comprou no cartão e ligou para (xxx) xxxx-xxxx.,2210.9,0
+167,Alves,65,6986.08,454efc2d6f00,65+,"(4378.548, 6996.63]",Sra. Amanda Moreira comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,7158.37,0
+168,Sá,64,2094.12,34d8b962dcce,55-64,"(1199.999, 2494.458]",Luísa Andrade comprou no cartão e ligou para xx xxxx xxxx.,2213.28,0
+169,Rocha da Praia,44,3909.87,74c7a642442e,35-44,"(3770.534, 4378.548]",Dra. Ana Clara Sampaio comprou no cartão e ligou para (xxx) xxxx-xxxx.,3881.09,0
+170,Sá,51,5574.44,42379a56d11e,45-54,"(4378.548, 6996.63]",Yuri Novais comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,5448.39,0
+171,Sales Verde,34,3205.67,e0f811b9c38e,25-34,"(3161.654, 3770.534]",Nicole Ramos comprou no cartão e ligou para xxxx-xxx-xxxx.,3120.13,0
+172,Carvalho da Prata,34,4432.81,110c706745b7,25-34,"(4378.548, 6996.63]",Luiz Otávio Dias comprou no cartão e ligou para (xxx) xxxx-xxxx.,4324.32,0
+173,Martins,51,3048.61,554aa239587f,45-54,"(2494.458, 3161.654]",João Siqueira comprou no cartão e ligou para xx xxxx-xxxx.,3041.56,0
+174,Rios,25,3339.41,d74f88f229ce,25-34,"(3161.654, 3770.534]",Sophia Borges comprou no cartão e ligou para xx xxxx xxxx.,3373.59,0
+175,Fogaça da Praia,42,3214.19,03ec87a7cd7c,35-44,"(3161.654, 3770.534]",Valentim Vieira comprou no cartão e ligou para xx xxxx xxxx.,3240.87,0
+176,Mendes de Costela,22,3180.34,3e6bfbc39030,18-24,"(3161.654, 3770.534]",Rafaela Pereira comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3259.26,0
+177,Machado,27,2833.61,74674585c379,25-34,"(2494.458, 3161.654]",Elisa Ramos comprou no cartão e ligou para +xx xx xxxx-xxxx.,2834.72,1
+178,Cassiano do Campo,26,4065.85,b1e1213cfbfb,25-34,"(3770.534, 4378.548]",Olivia Mendes comprou no cartão e ligou para +xx xx xxxx-xxxx.,4243.15,0
+179,Pastor Verde,46,3686.52,9855bf97648a,45-54,"(3161.654, 3770.534]",Renan Pimenta comprou no cartão e ligou para xx xxxx-xxxx.,3657.25,0
+180,Rezende Verde,56,3922.11,ebc751c3daf4,55-64,"(3770.534, 4378.548]",Otávio Carvalho comprou no cartão e ligou para xx xxxx-xxxx.,4242.17,0
+181,Souza,74,3500.1,5a938a5ab752,65+,"(3161.654, 3770.534]",José Pedro Nascimento comprou no cartão e ligou para xx xxxx-xxxx.,3565.8,0
+182,Silveira,45,2634.13,54be96470ab8,45-54,"(2494.458, 3161.654]",Pietro Viana comprou no cartão e ligou para xxxx-xxx-xxxx.,2566.39,0
+183,Guerra Verde,47,3383.26,4bd5987363bb,45-54,"(3161.654, 3770.534]",Maria Liz Pimenta comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3274.57,0
+184,Montenegro,18,6011.8,5bf3951689fd,18-24,"(4378.548, 6996.63]",Valentim Albuquerque comprou no cartão e ligou para xxxx xxx xxxx.,6098.82,0
+185,Dias,53,3963.02,f064e0b9a6dc,45-54,"(3770.534, 4378.548]",Luigi Camargo comprou no cartão e ligou para xxxx xxx xxxx.,3936.45,0
+186,da Costa,49,2584.33,a5324dfe6c91,45-54,"(2494.458, 3161.654]",Maria Moreira comprou no cartão e ligou para (xxx) xxxx-xxxx.,2639.69,0
+187,Gonçalves de Goiás,16,3813.39,d37a9f170983,0-17,"(3770.534, 4378.548]",Srta. Julia Costela comprou no cartão e ligou para (xxx) xxxx-xxxx.,3867.53,0
+188,Cirino da Prata,38,2165.11,419903423dd9,35-44,"(1199.999, 2494.458]",Carolina Aragão comprou no cartão e ligou para (xxx) xxxx xxxx.,2160.38,0
+189,Garcia do Oeste,21,3815.3,8b08d1c54b4f,18-24,"(3770.534, 4378.548]",Isaac da Mata comprou no cartão e ligou para (xxx) xxxx-xxxx.,3718.38,0
+190,da Luz da Praia,65,4076.17,620363db1691,65+,"(3770.534, 4378.548]",Dom Melo comprou no cartão e ligou para xx xxxx xxxx.,3890.93,0
+191,Pires Verde,56,4612.93,e64ef0a24024,55-64,"(4378.548, 6996.63]",Dr. Luiz Felipe Almeida comprou no cartão e ligou para (xxx) xxxx-xxxx.,4551.14,0
+192,Ribeiro,21,4045.3,f776050e1204,18-24,"(3770.534, 4378.548]",Ana Sophia Barros comprou no cartão e ligou para xxxx xxx xxxx.,4149.23,0
+193,Pires de Cardoso,30,2934.17,0d747b69e9be,25-34,"(2494.458, 3161.654]",Bruno Costela comprou no cartão e ligou para xxxx-xxx-xxxx.,2953.02,0
+194,Borges,73,3816.46,3332206764ff,65+,"(3770.534, 4378.548]",Vinicius Cavalcante comprou no cartão e ligou para xxxx xxx xxxx.,3673.83,0
+195,Correia das Pedras,53,3149.39,14d7e692f9bc,45-54,"(2494.458, 3161.654]",Lorena Fonseca comprou no cartão e ligou para (xxx) xxxx-xxxx.,3165.75,0
+196,Porto,53,3375.81,0e134d35a6e4,45-54,"(3161.654, 3770.534]",Maya Gonçalves comprou no cartão e ligou para (xxx) xxxx xxxx.,3414.83,0
+197,Viana do Amparo,64,3683.08,af16ddd99d09,55-64,"(3161.654, 3770.534]",Milena da Mata comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3585.42,0
+198,Moreira,47,5265.79,f09ec27348fd,45-54,"(4378.548, 6996.63]",Dr. Arthur Gabriel Farias comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,5290.07,0
+199,Gonçalves,65,3215.78,86e78b887261,65+,"(3161.654, 3770.534]",Giovanna Melo comprou no cartão e ligou para +xx xx xxxx-xxxx.,3221.4,0
+200,Macedo do Oeste,43,3711.81,ba5e4609a97d,35-44,"(3161.654, 3770.534]",Anthony Aparecida comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3584.54,0
+201,Machado,30,3053.7,2a8e1e875041,25-34,"(2494.458, 3161.654]",Marcos Vinicius Fogaça comprou no cartão e ligou para xx xxxx-xxxx.,3086.48,0
+202,Jesus Alegre,31,1391.93,a9b1af756aff,25-34,"(1199.999, 2494.458]",João Nogueira comprou no cartão e ligou para xx xxxx-xxxx.,1415.35,0
+203,Albuquerque,25,5572.82,1366fb49f9dc,25-34,"(4378.548, 6996.63]",Calebe Moreira comprou no cartão e ligou para (xxx) xxxx-xxxx.,5753.89,0
+204,Correia do Oeste,40,1659.37,fa9ad7bd5edd,35-44,"(1199.999, 2494.458]",Samuel Barros comprou no cartão e ligou para +xx xx xxxx xxxx.,1711.83,0
+205,Novaes Alegre,45,3105.77,bc911b35d8d2,45-54,"(2494.458, 3161.654]",Isadora Nunes comprou no cartão e ligou para xx xxxx-xxxx.,2977.41,0
+206,Dias,37,3426.41,f01e170746c5,35-44,"(3161.654, 3770.534]",Dr. Pedro Silveira comprou no cartão e ligou para (xxx) xxxx xxxx.,3330.01,0
+207,Mendonça,26,3098.65,de6811c0b966,25-34,"(2494.458, 3161.654]",João Guilherme Novaes comprou no cartão e ligou para (xxx) xxxx xxxx.,3146.53,0
+208,Montenegro de Goiás,56,5060.05,3620cdb9bcde,55-64,"(4378.548, 6996.63]",Dra. Aylla Peixoto comprou no cartão e ligou para xx xxxx xxxx.,5138.04,0
+209,Montenegro das Pedras,55,5578.77,92bd4ad727fc,55-64,"(4378.548, 6996.63]",Benicio Rocha comprou no cartão e ligou para (xxx) xxxx xxxx.,5664.97,0
+210,Vargas,70,4912.89,93023f14ab87,65+,"(4378.548, 6996.63]",Srta. Catarina Mendes comprou no cartão e ligou para +xx xx xxxx xxxx.,5480.73,0
+211,Almeida de Farias,43,5592.72,85afc4c5c017,35-44,"(4378.548, 6996.63]",Enzo Gabriel Ferreira comprou no cartão e ligou para +xx xx xxxx xxxx.,5688.5,0
+212,Azevedo,47,4026.79,7b873800549e,45-54,"(3770.534, 4378.548]",Vitor Gabriel Cunha comprou no cartão e ligou para +xx xx xxxx-xxxx.,4163.97,0
+213,Farias do Amparo,27,3144.11,ec01efef6ea7,25-34,"(2494.458, 3161.654]",Júlia Ribeiro comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,3234.09,0
+214,Leão,63,3579.85,df2d3effaf68,55-64,"(3161.654, 3770.534]",Eduarda Almeida comprou no cartão e ligou para +xx xx xxxx-xxxx.,3649.81,0
+215,Casa Grande do Sul,20,4687.5,33b32204001d,18-24,"(4378.548, 6996.63]",Eduardo Lima comprou no cartão e ligou para xxxx xxx xxxx.,4643.17,0
+216,Barros do Amparo,33,2086.04,cb6e4f170a52,25-34,"(1199.999, 2494.458]",Dr. Noah da Rosa comprou no cartão e ligou para xxxx-xxx-xxxx.,2133.54,0
+217,Pimenta de Mendonça,51,3271.22,d8dce6ac8766,45-54,"(3161.654, 3770.534]",Theodoro Pereira comprou no cartão e ligou para xx xxxx xxxx.,3195.38,0
+218,Moreira do Norte,56,4905.5,e17af89affb6,55-64,"(4378.548, 6996.63]",Sra. Natália da Cruz comprou no cartão e ligou para (xxx) xxxx-xxxx.,4870.65,0
+219,Machado do Sul,53,5684.78,47fad4202ae9,45-54,"(4378.548, 6996.63]",João Vitor Macedo comprou no cartão e ligou para +xx xx xxxx xxxx.,5602.0,0
+220,Castro,21,4376.93,b7fcdd6fbce6,18-24,"(3770.534, 4378.548]",Rafael Pastor comprou no cartão e ligou para xx xxxx-xxxx.,4387.68,0
+221,Pastor,46,3419.66,1607e30b974b,45-54,"(3161.654, 3770.534]",Felipe Vargas comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3657.12,0
+222,Borges do Norte,71,2093.59,e795572de126,65+,"(1199.999, 2494.458]",Olívia Marques comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,1976.31,0
+223,Carvalho de Campos,25,5313.47,ed1a49840a1a,25-34,"(4378.548, 6996.63]",Oliver Cavalcanti comprou no cartão e ligou para (xxx) xxxx xxxx.,5422.86,0
+224,Moreira de Siqueira,63,4265.04,873e7c9fa9b2,55-64,"(3770.534, 4378.548]",Sra. Luísa Moura comprou no cartão e ligou para (xxx) xxxx-xxxx.,4058.69,0
+225,Vieira de Minas,74,2283.54,cd76e36f29a3,65+,"(1199.999, 2494.458]",Sara Monteiro comprou no cartão e ligou para xx xxxx xxxx.,2251.21,0
+226,Nunes Alegre,62,3539.34,85d569d267da,55-64,"(3161.654, 3770.534]",Kaique Montenegro comprou no cartão e ligou para +xx xx xxxx xxxx.,3654.96,0
+227,da Mata,58,2694.63,e2a46e57e40c,55-64,"(2494.458, 3161.654]",Zoe Almeida comprou no cartão e ligou para xxxx xxx xxxx.,2699.83,0
+228,Vasconcelos Alegre,50,3874.41,3137fba69d35,45-54,"(3770.534, 4378.548]",Aurora Monteiro comprou no cartão e ligou para (xxx) xxxx-xxxx.,3749.14,0
+229,Correia,23,4230.51,f70c462f75f6,18-24,"(3770.534, 4378.548]",Carlos Eduardo Moreira comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4139.73,0
+230,Pimenta Alegre,49,1200.0,b3b5b151714e,45-54,"(1199.999, 2494.458]",João Guilherme Nascimento comprou no cartão e ligou para xx xxxx-xxxx.,1224.47,0
+231,Borges,56,3586.44,85ea041ff3ba,55-64,"(3161.654, 3770.534]",Melina Aragão comprou no cartão e ligou para xxxx-xxx-xxxx.,3507.86,0
+232,Pereira Verde,46,3996.67,f69c09e6534b,45-54,"(3770.534, 4378.548]",Sra. Aylla Marques comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,4022.62,0
+233,Sales,46,1200.0,20138f98488d,45-54,"(1199.999, 2494.458]",Thomas Caldeira comprou no cartão e ligou para +xx xx xxxx-xxxx.,1201.64,0
+234,Rodrigues,45,2790.68,131393f59a04,45-54,"(2494.458, 3161.654]",Marina Viana comprou no cartão e ligou para (xxx) xxxx xxxx.,2736.13,0
+235,da Rosa Verde,65,1602.09,d52f4fb01f3f,65+,"(1199.999, 2494.458]",Maria Helena Duarte comprou no cartão e ligou para (xxx) xxxx-xxxx.,1705.13,0
+236,Pires Alegre,23,5271.14,d40a0b844b2f,18-24,"(4378.548, 6996.63]",Liz Lopes comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,5371.38,0
+237,Barros,44,4515.9,829384b6d569,35-44,"(4378.548, 6996.63]",Sra. Maria Luiza Garcia comprou no cartão e ligou para (xxx) xxxx xxxx.,4241.54,0
+238,Andrade do Norte,54,2814.87,4e9223ff030f,45-54,"(2494.458, 3161.654]",Oliver Marques comprou no cartão e ligou para xxxx xxx xxxx.,2830.62,0
+239,Marques de Moraes,28,4782.17,a64f1a20ab68,25-34,"(4378.548, 6996.63]",Rafaela Santos comprou no cartão e ligou para +xx xx xxxx xxxx.,4687.23,0
+240,da Cunha Grande,55,3779.45,0a0d4043ccd8,55-64,"(3770.534, 4378.548]",Luísa Leão comprou no cartão e ligou para (xxx) xxxx xxxx.,3876.1,0
+241,da Costa dos Dourados,64,3824.41,77e17f075490,55-64,"(3770.534, 4378.548]",Lara da Mota comprou no cartão e ligou para xx xxxx xxxx.,3733.48,0
+242,Moura do Norte,60,2463.99,203f4b1a3f91,55-64,"(1199.999, 2494.458]",Dra. Eloah Costela comprou no cartão e ligou para (xxx) xxxx-xxxx.,2455.51,0
+243,Azevedo,47,3316.97,4bff04bd626e,45-54,"(3161.654, 3770.534]",Vitor Porto comprou no cartão e ligou para xxxx xxx xxxx.,3367.22,0
+244,Camargo,34,3960.07,490e94464c3d,25-34,"(3770.534, 4378.548]",Noah Brito comprou no cartão e ligou para xxxx-xxx-xxxx.,4062.92,0
+245,Azevedo de Mendonça,21,2229.76,02af2a0504d9,18-24,"(1199.999, 2494.458]",Srta. Isis da Rocha comprou no cartão e ligou para +xx xx xxxx-xxxx.,2149.47,1
+246,da Mata Grande,71,3349.99,1f423aea0c3e,65+,"(3161.654, 3770.534]",Matteo Cavalcanti comprou no cartão e ligou para +xx xx xxxx xxxx.,3316.37,0
+247,Nascimento Alegre,23,2607.69,af869b6cfdde,18-24,"(2494.458, 3161.654]",Sra. Maria Júlia Oliveira comprou no cartão e ligou para +xx xx xxxx xxxx.,2570.53,1
+248,Azevedo da Prata,59,2513.3,59419aa347ae,55-64,"(2494.458, 3161.654]",Raul Teixeira comprou no cartão e ligou para (xxx) xxxx-xxxx.,2464.04,0
+249,da Cruz,37,4513.26,d7a836c811d8,35-44,"(4378.548, 6996.63]",Lorena Monteiro comprou no cartão e ligou para xxxx xxx xxxx.,4752.3,0
+250,Duarte,62,3513.71,ef9590e4e880,55-64,"(3161.654, 3770.534]",Dra. Caroline Albuquerque comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3556.4,0
+251,Barros de Abreu,54,4528.15,8ddbee3e34ba,45-54,"(4378.548, 6996.63]",Augusto Pastor comprou no cartão e ligou para xxxx xxx xxxx.,4356.87,0
+252,Campos,74,4510.18,550fd54592e7,65+,"(4378.548, 6996.63]",Felipe Borges comprou no cartão e ligou para xx xxxx-xxxx.,4634.37,0
+253,Aparecida de Caldeira,41,6293.18,2d642652717d,35-44,"(4378.548, 6996.63]",Aylla Pinto comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,6693.83,0
+254,Câmara de Minas,22,3253.81,1f86e12191aa,18-24,"(3161.654, 3770.534]",Srta. Zoe Cavalcanti comprou no cartão e ligou para (xxx) xxxx xxxx.,3354.59,0
+255,Martins,23,5425.11,c7ef5102c085,18-24,"(4378.548, 6996.63]",Raquel Aragão comprou no cartão e ligou para +xx xx xxxx-xxxx.,5177.83,0
+256,Pastor,23,2950.76,c8aebb90fed5,18-24,"(2494.458, 3161.654]",Mariah Cavalcante comprou no cartão e ligou para (xxx) xxxx-xxxx.,2907.89,1
+257,Ramos,48,5071.46,7151a392b7eb,45-54,"(4378.548, 6996.63]",André Leão comprou no cartão e ligou para +xx xx xxxx-xxxx.,5264.21,0
+258,Viana,16,1577.29,0cd1333bd675,0-17,"(1199.999, 2494.458]",Antony Mendes comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1543.8,1
+259,Sousa de Sá,41,1578.47,e29dec3f4640,35-44,"(1199.999, 2494.458]",Anna Liz Pinto comprou no cartão e ligou para xx xxxx-xxxx.,1599.49,0
+260,Rocha de Minas,33,2547.04,1e323ba56af9,25-34,"(2494.458, 3161.654]",Giovanna Sá comprou no cartão e ligou para xx xxxx-xxxx.,2606.23,0
+261,Sousa de Ramos,16,4129.03,3e62a2dec689,0-17,"(3770.534, 4378.548]",Raul Borges comprou no cartão e ligou para xx xxxx-xxxx.,4014.21,0
+262,da Paz do Norte,33,3831.53,4a98c32fba63,25-34,"(3770.534, 4378.548]",João Vitor Correia comprou no cartão e ligou para (xxx) xxxx-xxxx.,3824.69,0
+263,Rios,48,1200.0,d36c003d7085,45-54,"(1199.999, 2494.458]",Luiz Gustavo da Paz comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,1083.31,0
+264,Fernandes de Sales,22,3565.22,869159f44c21,18-24,"(3161.654, 3770.534]",Dr. Diogo Freitas comprou no cartão e ligou para +xx (xxx) xxxx xxxx.,3455.65,0
+265,Rocha de Rios,56,4051.26,6b7872a72a67,55-64,"(3770.534, 4378.548]",Rhavi Aparecida comprou no cartão e ligou para xxxx xxx xxxx.,4020.56,0
+266,Cunha,32,4342.34,e51f762cc4af,25-34,"(3770.534, 4378.548]",Théo Gonçalves comprou no cartão e ligou para xx xxxx xxxx.,4179.79,0
+267,Costa,55,2705.15,a1db52888330,55-64,"(2494.458, 3161.654]",Sra. Maria Vitória Macedo comprou no cartão e ligou para +xx xx xxxx xxxx.,2837.63,0
+268,Monteiro de Minas,74,3665.89,049cffef0212,65+,"(3161.654, 3770.534]",Mateus da Rocha comprou no cartão e ligou para (xxx) xxxx-xxxx.,3508.61,0
+269,da Mata,52,3775.05,7906a82a3016,45-54,"(3770.534, 4378.548]",Maria Cecília Pacheco comprou no cartão e ligou para xxxx xxx xxxx.,3725.21,0
+270,Freitas do Amparo,21,4136.08,03f6d8be58fc,18-24,"(3770.534, 4378.548]",Dr. Luiz Henrique Aragão comprou no cartão e ligou para +xx xx xxxx-xxxx.,4152.3,0
+271,Santos,30,3284.47,d2bb5d0a2ac5,25-34,"(3161.654, 3770.534]",Manuela Castro comprou no cartão e ligou para (xxx) xxxx-xxxx.,3426.48,0
+272,Melo,30,3736.13,ea52cf918d14,25-34,"(3161.654, 3770.534]",Arthur Souza comprou no cartão e ligou para +xx xx xxxx xxxx.,3575.19,0
+273,Brito,63,3027.51,2358cb579db4,55-64,"(2494.458, 3161.654]",José Aparecida comprou no cartão e ligou para +xx xx xxxx-xxxx.,3133.15,0
+274,Camargo Alegre,27,4125.4,52c11e4a3dfb,25-34,"(3770.534, 4378.548]",Alice Moura comprou no cartão e ligou para (xxx) xxxx-xxxx.,4126.67,0
+275,Azevedo,69,3358.95,eb8a3497d514,65+,"(3161.654, 3770.534]",Ravi Lucca Camargo comprou no cartão e ligou para (xxx) xxxx-xxxx.,3260.04,0
+276,Campos de Goiás,18,4495.42,6f5cfe6278e3,18-24,"(4378.548, 6996.63]",Maria Eduarda Cavalcanti comprou no cartão e ligou para xx xxxx xxxx.,4557.74,0
+277,Rocha de Alves,64,1944.23,092b847f9cc7,55-64,"(1199.999, 2494.458]",Sara da Mota comprou no cartão e ligou para +xx xx xxxx-xxxx.,1955.84,0
+278,Campos das Flores,51,1721.38,73e4b8f214c2,45-54,"(1199.999, 2494.458]",Mateus Pereira comprou no cartão e ligou para (xxx) xxxx-xxxx.,1690.38,0
+279,Novais de Castro,32,2686.08,b9faa6ab7a3b,25-34,"(2494.458, 3161.654]",Luara Garcia comprou no cartão e ligou para xx xxxx xxxx.,2691.7,0
+280,Ferreira do Norte,66,4399.32,53381034c95b,65+,"(4378.548, 6996.63]",Ana Laura Gonçalves comprou no cartão e ligou para (xxx) xxxx xxxx.,4348.47,0
+281,Garcia Verde,73,3737.35,22d79859e60c,65+,"(3161.654, 3770.534]",Isabelly da Cruz comprou no cartão e ligou para (xxx) xxxx-xxxx.,3750.08,0
+282,da Rosa,70,4807.06,c952172e46e1,65+,"(4378.548, 6996.63]",Luna Oliveira comprou no cartão e ligou para xx xxxx xxxx.,4902.55,0
+283,da Cunha do Galho,64,3417.03,09b837f1209f,55-64,"(3161.654, 3770.534]",Maria Liz Câmara comprou no cartão e ligou para +xx xx xxxx xxxx.,3579.61,0
+284,da Mata da Mata,65,5124.3,a8a803248d31,65+,"(4378.548, 6996.63]",Emilly Almeida comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,4934.01,0
+285,Ramos,48,2495.12,ecdba6d1eaee,45-54,"(2494.458, 3161.654]",Elisa da Cunha comprou no cartão e ligou para (xxx) xxxx-xxxx.,2654.79,0
+286,Borges de da Costa,53,2786.72,62403bacc15c,45-54,"(2494.458, 3161.654]",Ryan Viana comprou no cartão e ligou para +xx xx xxxx-xxxx.,2623.52,0
+287,Melo de Goiás,63,2434.24,ddeb0a1ef294,55-64,"(1199.999, 2494.458]",Camila Vargas comprou no cartão e ligou para xx xxxx xxxx.,2423.16,0
+288,da Rosa de Minas,59,3070.38,fc603aad7a81,55-64,"(2494.458, 3161.654]",Diogo Fonseca comprou no cartão e ligou para (xxx) xxxx xxxx.,3124.57,0
+289,Marques do Sul,21,5564.92,5293588e5cc4,18-24,"(4378.548, 6996.63]",Kaique Costela comprou no cartão e ligou para (xxx) xxxx xxxx.,5611.83,0
+290,Cavalcanti Verde,57,1841.38,482cdfc006d3,55-64,"(1199.999, 2494.458]",Francisco Pires comprou no cartão e ligou para +xx xx xxxx xxxx.,1806.98,0
+291,Borges,46,2251.35,73326124ac5a,45-54,"(1199.999, 2494.458]",Dr. Gael Henrique Barros comprou no cartão e ligou para +xx (xxx) xxxx-xxxx.,2237.29,0
+292,Jesus,19,4069.64,ddd0d64559e0,18-24,"(3770.534, 4378.548]",Sr. Dante Albuquerque comprou no cartão e ligou para xx xxxx xxxx.,4009.45,0
+293,Farias,28,1302.91,2d56233aab63,25-34,"(1199.999, 2494.458]",Arthur da Rocha comprou no cartão e ligou para +xx xx xxxx-xxxx.,1279.87,1
+294,Borges,68,4613.96,a96d4eb80d57,65+,"(4378.548, 6996.63]",Ravy Fogaça comprou no cartão e ligou para xxxx xxx xxxx.,4731.56,0
+295,Aragão,37,2859.32,46543ceebbe9,35-44,"(2494.458, 3161.654]",Dr. Diego da Luz comprou no cartão e ligou para (xxx) xxxx-xxxx.,2889.94,0
+296,Cavalcante,21,2216.3,5a0c66007346,18-24,"(1199.999, 2494.458]",Fernando Andrade comprou no cartão e ligou para (xxx) xxxx-xxxx.,2170.23,1
+297,Santos de Ribeiro,50,4013.47,121fbef07fa3,45-54,"(3770.534, 4378.548]",Dra. Júlia Nunes comprou no cartão e ligou para +xx xx xxxx xxxx.,4121.79,0
+298,Cavalcanti de Goiás,43,3272.91,39603dd414f6,35-44,"(3161.654, 3770.534]",Mirella Pires comprou no cartão e ligou para (xxx) xxxx xxxx.,3303.08,0
+299,Nunes das Pedras,67,3934.31,a3008a20d10e,65+,"(3770.534, 4378.548]",Aurora Almeida comprou no cartão e ligou para xx xxxx xxxx.,4030.25,0
+300,Moreira,49,5084.79,ac8e54fa8ece,45-54,"(4378.548, 6996.63]",Otávio Freitas comprou no cartão e ligou para (xxx) xxxx xxxx.,5180.84,0

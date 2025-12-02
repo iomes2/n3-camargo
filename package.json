@@ -1,0 +1,19 @@
+{
+  "name": "n3camargo",
+  "version": "1.0.0",
+  "description": "Este projeto entrega a avaliação N3 com:\r - Reapresentação do domínio de problema e repositório de dados\r - Pipeline de dados (ETL/ELT) e breve explicação dos elementos\r - Treinamento e teste com 3 algoritmos e 3 métricas\r - Deploy do melhor modelo via Pickle/Joblib e um CLI simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iomes2/n3-camargo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iomes2/n3-camargo/issues"
+  },
+  "homepage": "https://github.com/iomes2/n3-camargo#readme"
+}
