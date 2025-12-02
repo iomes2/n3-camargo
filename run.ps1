@@ -5,7 +5,6 @@ param(
 
 Write-Host "Instalando dependências..."
 $req = Join-Path $PSScriptRoot "requirements.txt"
-& $PythonExe -m pip install --upgrade pip
 & $PythonExe -m pip install -r $req
 
 Write-Host "Executando pipeline/treino/deploy..."
